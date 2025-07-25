@@ -18,7 +18,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "homepage": "https://github.com/Dih560/php-helpers",
+    "homepage": "https://github.com/diego-pealmeida/php-helpers",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -41,8 +41,7 @@
         "ext-xmlreader": "*",
         "ext-xmlwriter": "*",
         "ext-zip": "*",
-        "ext-zlib": "*",
-        "phpoffice/phpspreadsheet": "^2.0.0"
+        "ext-zlib": "*"
     },
     "autoload": {
         "files": [
